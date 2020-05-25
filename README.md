@@ -1,5 +1,7 @@
 # Distributed Search Engine
 
+### Author: Leo Baiao Hou
+
 Many people get their news from online news aggregators and search engines. Those sites can return very different results as shown in the above pictures. News aggregators sites get their content from media outlets websites and often different news sites use different sources. This project is implementation of a news search engine from top media websites with autocomplete capability (Mercator-style crawler, indexer/TF-IDF retrieval engine, pagerank, result quality optimizer).
 
 ## Overview
